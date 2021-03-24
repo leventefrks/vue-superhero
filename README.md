@@ -1,4 +1,4 @@
-# random-hero-picker
+# Pick your Superhero
 
 ## Project setup
 ```
